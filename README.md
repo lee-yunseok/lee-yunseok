@@ -24,6 +24,8 @@
 
 ## Contributes
 
+- **[LXPlug Ejecter](https://github.com/raspberrypi-ui/lxplug-ejecter)** _LXPanel plugin to safely eject mounted USB drives._
+- **[LXPlug Magnifier](https://github.com/raspberrypi-ui/lxplug-magnifier)** _LXPanel plugin to launch on-screen magnifier application._
 - **[Raspberry Pi Bookshelf](https://github.com/raspberrypi-ui/bookshelf)** _Application to easily browse and download Raspberrry Pi Press titles._
 - **[SD Card Copier](https://github.com/raspberrypi-ui/piclone)** _Utility to back up Pi to an SD card reader_
 - **[qView](https://interversehq.com/qview/)** _Practical and minimal image viewer_
