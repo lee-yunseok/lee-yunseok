@@ -24,6 +24,7 @@
 
 ## Contributes
 
+- **[Raspberry Pi Diagnostics](https://github.com/raspberrypi-ui/agnostics)** _Application to run tests on Raspberry Pi hardware._
 - **[LXPlug Ejecter](https://github.com/raspberrypi-ui/lxplug-ejecter)** _LXPanel plugin to safely eject mounted USB drives._
 - **[LXPlug Magnifier](https://github.com/raspberrypi-ui/lxplug-magnifier)** _LXPanel plugin to launch on-screen magnifier application._
 - **[Raspberry Pi Bookshelf](https://github.com/raspberrypi-ui/bookshelf)** _Application to easily browse and download Raspberrry Pi Press titles._
