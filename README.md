@@ -55,9 +55,9 @@
 
 - 2020 GitHub Archive Program Arctic Code Vault Contributor
 - 2018 15th International Mobile Gaming Awards (IMGA) Online Judge Appointed
-- SlideDB 2016 App of the Year Awrads TOP 50<br />_-Victoria, Australia, 10 December, 2016_
-- EMOTIONAL GAMES AWARDS 2016 Mobile & Handled Nominee<br />_-Laval, France, 14 January, 2016_
-- SlideDB 2015 App of the Year Awrads TOP 50<br />_-Victoria, Australia, 10 December, 2015_
+- SlideDB 2016 App of the Year Awrads TOP 50
+- EMOTIONAL GAMES AWARDS 2016 Mobile & Handled Nominee
+- SlideDB 2015 App of the Year Awrads TOP 50
 - Music Universe 2009 Honorable Mention
 
 ***
