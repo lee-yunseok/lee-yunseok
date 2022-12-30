@@ -6,10 +6,10 @@
 
 ## Projects
 
-- [Jekyll Personal Website](https://github.com/lee-yunseok/jekyll-personal-website)
+- [Jekyll Personal Website](https://github.com/yi-yunseok/jekyll-personal-website)
 - PW Jekyll Theme
 - [YGGDRASIL JIGSAW PUZZLE](https://YGGDRASIL-STUDIO.github.io/YGGDRASIL-JIGSAW-PUZZLE/)
-- [Icon Generator for Game Developers](https://github.com/lee-yunseok/Icon-Generator-for-Game-Developers)
+- [Icon Generator for Game Developers](https://github.com/yi-yunseok/Icon-Generator-for-Game-Developers)
 - **[Discouraged Workers](https://YGGDRASIL-STUDIO.github.io/Discouraged-Workers/)**
 - _Others_
 
@@ -68,5 +68,5 @@
 - [FUCK CAPITALISM JAM](https://itch.io/jam/fuck-capitalism-jam) `#FuckJam2k15`
 
 ***
-![MARS 2020 Lee Yunseok](https://Lee-Yunseok.github.io/assets/img/mars2020_lee-yunseok.webp)
-![MARS 2020 YGGDRASIL STUDIO](https://Lee-Yunseok.github.io/assets/img/mars2020_yggdrasilstudio.webp)
+![MARS 2020 Lee Yunseok](https://Yi-Yunseok.github.io/assets/img/mars2020_lee-yunseok.webp)
+![MARS 2020 YGGDRASIL STUDIO](https://Yi-Yunseok.github.io/assets/img/mars2020_yggdrasilstudio.webp)
