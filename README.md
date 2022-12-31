@@ -1,4 +1,4 @@
-![Lee Yunseok's Octocat](https://Yi-Yunseok.github.io/assets/img/lee-yunseok_octocat.webp)
+![Yi Yunseok's Octocat](https://Yi-Yunseok.github.io/assets/img/lee-yunseok_octocat.webp)
 
 **Independent Cultural Artist** / Creator at [YGGDRASIL STUDIO](https://YGGDRASIL-STUDIO.github.io) / English-Korean Translator / Developer
 
