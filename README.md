@@ -6,6 +6,7 @@
 
 ## Projects
 
+- **[BJDNielSounds](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds)**
 - [Jekyll Personal Website](https://github.com/yi-yunseok/jekyll-personal-website)
 - PW Jekyll Theme
 - [YGGDRASIL JIGSAW PUZZLE](https://YGGDRASIL-STUDIO.github.io/YGGDRASIL-JIGSAW-PUZZLE/)
@@ -15,7 +16,6 @@
 
 #### Working in progress
 
-- [BJDNielSounds](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds)
 - **Fimbulvetr**
 - A Squirming Fairytale
 - Save Yourself
