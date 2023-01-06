@@ -6,7 +6,7 @@
 
 ## Projects
 
-- **[BJDNielSounds](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds)**
+- **[BJDNielSounds](https://YGGDRASIL-STUDIO.github.io/BJDNielSounds/)**
 - [Jekyll Personal Website](https://github.com/yi-yunseok/jekyll-personal-website)
 - PW Jekyll Theme
 - [YGGDRASIL JIGSAW PUZZLE](https://YGGDRASIL-STUDIO.github.io/YGGDRASIL-JIGSAW-PUZZLE/)
